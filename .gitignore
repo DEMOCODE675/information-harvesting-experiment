@@ -12,21 +12,12 @@ env/
 # Distribution / packaging
 build/
 dist/
-*.egg-info/
+
 
 # Editor directories and files
 .vscode/
 .idea/
 
-# OS files
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
-
-# Others
-.pytest_cache/
-.tox/
-# End of .gitignore
 CheatSheetSeries/
+
+# End of .gitignore
