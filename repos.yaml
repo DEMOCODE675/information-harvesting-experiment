@@ -1,0 +1,25 @@
+repos:
+  - name: CheatSheetSeries
+    owner: OWASP
+    url: https://github.com/OWASP/CheatSheetSeries
+    type: Documentation
+
+  - name: WebGoat
+    owner: OWASP
+    url: https://github.com/OWASP/WebGoat
+    type: Vulnerable Application
+
+  - name: Juice-Shop
+    owner: OWASP
+    url: https://github.com/OWASP/juice-shop
+    type: Vulnerable Application
+
+  - name: ASVS
+    owner: OWASP
+    url: https://github.com/OWASP/ASVS
+    type: Documentation
+
+  - name: WSTG
+    owner: OWASP
+    url: https://github.com/OWASP/wstg
+    type: Documentation
