@@ -26,3 +26,25 @@ Example repository used:
 These repositories were **not included in this project** and were only used to observe real-world Markdown changes and commit activity.
 
 This repository contains only experimental code and does not redistribute any OWASP project source code.
+
+## GitHub API Fetch Demo
+
+The script `github_fetch_demo.py` demonstrates how the system can detect
+recent commits from OWASP repositories using the GitHub API.
+
+Example run:
+
+python github_fetch_demo.py
+
+Output:
+
+Repository: OWASP/WebGoat
+
+Repository: OWASP/Juice-Shop - ERROR fetching repo: Not Found
+
+Repository: OWASP/ASVS
+
+Repository: OWASP/WSTG
+Commit message: Add Online Resources section to Testing Tools appendix (#1360)
+Author: Nik-ui
+Date: 2026-03-12 21:31:41+00:00
